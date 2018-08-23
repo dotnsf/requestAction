@@ -56,6 +56,11 @@ Action for FX information as IBM Cloud Founctions(Node.js V8)
     - `$ ibmcloud wsk action invoke --result yourActionName`
 
 
+## References
+
+https://github.com/jthomas/openwhisk-workshops/tree/master/bootcamp/ex1.3%20-%20bundling%20NPM%20modules
+
+
 ## Licensing
 
 This code is licensed under MIT.
