@@ -1,8 +1,8 @@
-# FX Action
+# GET HTML Action
 
 ## Overview
 
-Action for FX information as IBM Cloud Founctions(Node.js V8)
+Action for getting HTML as IBM Cloud Founctions(Node.js V8)
 
 
 ## Pre-requisites
@@ -53,7 +53,7 @@ Action for FX information as IBM Cloud Founctions(Node.js V8)
 
 - Invoke this action from Dashboard, or following command:
 
-    - `$ ibmcloud wsk action invoke --result yourActionName`
+    - `$ ibmcloud wsk action invoke --result yourActionName --param url "https://www.ibm.com/"`
 
 
 ## References
